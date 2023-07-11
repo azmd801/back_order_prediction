@@ -1,0 +1,15 @@
+numpy
+pandas
+flask
+seaborn
+matplotlib
+scikit-learn
+langchain
+openai
+ipython
+ipykernel
+tabulate
+autoviz
+pandas_profiling
+
+# -e .
